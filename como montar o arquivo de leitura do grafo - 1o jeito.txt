@@ -1,0 +1,2 @@
+n_nodes n_arcos rotulo n_ant n_suc ... rotulo capacidade fluxo custo  ini_node fim_node
+n-nodes n_arcos nós ... arcos

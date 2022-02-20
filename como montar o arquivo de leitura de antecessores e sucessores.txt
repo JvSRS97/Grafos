@@ -1,0 +1,9 @@
+nó 1 ant suc ... nó 2 ant suc ... nó i ant suc
+exemplo: nó 1 não possui antecessores e possui sucessores, 
+nó 2 possui sucessores e antecessores, nó 15 possui 
+antecessores e não possui sucessores.
+
+2 4 1 3 5 8 9 12 14
+|_| | |___| |_____|
+ v  v   v      v
+ 1  2   2     15
